@@ -26,7 +26,11 @@ This is a preview of the Scene
 Its 50fps and little low res because of GIF 
 
 
-https://github.com/user-attachments/assets/b6a861b3-5df1-4c71-b5fb-eb0929116c93
+
+https://github.com/user-attachments/assets/637fa451-5eb5-474e-b04f-583e1b514a67
+
+
+
 
 Few Images of the Spaceship and Stromtroopers
 <img width="3840" height="2160" alt="SpaceSHipDoorOpening 0132" src="https://github.com/user-attachments/assets/e7a0aebd-a02d-4525-8df9-b6bfd4e581bf" />
