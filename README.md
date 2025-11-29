@@ -23,11 +23,14 @@ Part 18 - Animation and Sequencer Advanced
 Part 19 -  Render Setting & Console 
 
 This is a preview of the Scene 
-Its 50fps and little low res because of GIF 
+Its 50fps and little low res The original file is on the repository
+
+https://github.com/user-attachments/assets/50a5242e-28cb-430d-8817-d4b7d7cc1f95
 
 
 
-https://github.com/user-attachments/assets/637fa451-5eb5-474e-b04f-583e1b514a67
+
+
 
 
 
